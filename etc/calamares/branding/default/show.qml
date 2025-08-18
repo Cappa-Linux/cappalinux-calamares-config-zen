@@ -69,7 +69,7 @@ Presentation
     Text {
         anchors.horizontalCenter: background2.horizontalCenter
         anchors.top: background2.bottom
-        text: "ALCI"
+        text: "Cappa Linux"
         wrapMode: Text.WordWrap
         width: presentation.width
         horizontalAlignment: Text.Center

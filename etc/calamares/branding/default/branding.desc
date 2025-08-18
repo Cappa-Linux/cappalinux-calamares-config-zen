@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         ALCI
-    shortProductName:    ALCI
+    productName:         CappaLinux
+    shortProductName:    CappaLinux
     version:             2023.01.1
     shortVersion:        2023.01.1
-    versionedName:       ALCI
-    shortVersionedName:  ALCI
-    bootloaderEntryName: Arch
+    versionedName:       CappaLinux
+    shortVersionedName:  CappaLinux
+    bootloaderEntryName: CappaLinux
 
 # These images are loaded from the branding module directory.
 #
